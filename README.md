@@ -1,13 +1,10 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
+<h1 align="center">🚀 Wsp sas  </h1>
 <img src="https://imgur.com/N9LGCka.gif" />
-<h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
+<h1 align="center">Sistema de tickets extremadamente completo basado en mensajes de WhatsApp.</h1> 
 
 
 
 <br /><br />
-
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
 
 
   <div align="center">
