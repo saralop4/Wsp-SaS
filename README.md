@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Wsp sas  </h1>
-<img src="https://imgur.com/N9LGCka.gif" />
+<img src="https://www.gestionyventa.com/wp-content/uploads/2023/03/crm2.png" />
 <h1 align="center">Sistema de tickets extremadamente completo basado en mensajes de WhatsApp.</h1> 
 
 
